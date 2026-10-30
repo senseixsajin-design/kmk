@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StayCalm</string>
+    <string name="service_description">StayCalm watches what you type and the browser address bar. If it sees a blocked word it sends you home, locks the phone, and shows a calm screen when you unlock. Nothing is saved or sent anywhere.</string>
+</resources>
